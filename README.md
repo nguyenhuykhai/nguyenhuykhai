@@ -8,8 +8,7 @@
 - ⚡ Fun fact **I am funny**
   
 <h3 align="left">My Recent project</h3>
-<h4 align="left">[MERN]</h4>
-<a href="https://github.com/nguyenhuykhai/manageEmployeeEvents" target="blank">1. MANAGEMENT EMPLOYEES IN EVENTS - QUẢN LÝ NHÂN SỰ TRONG SỰ KIỆN</a>
+<a href="https://github.com/nguyenhuykhai/manager-tasks-application" target="blank">FU_MANAGER_PROJECT - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
