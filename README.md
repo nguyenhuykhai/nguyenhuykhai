@@ -8,7 +8,9 @@
 - ⚡ Fun fact **I am funny**
   
 <h3 align="left">My Recent project</h3>
-<a href="https://github.com/nguyenhuykhai/manager-tasks-application" target="blank">FU_MANAGER_PROJECT - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
+<a href="https://github.com/nguyenhuykhai/manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Front-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
+<br/>
+<a href="https://github.com/nguyenhuykhai/be-manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Back-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,vscode,github,visualstudio,git,gitlab,babel" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,aws,c,java,mysql,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,aws,c,java,mysql,docker,spring,sass,mongodb" /><br>
 </div>
 <br/>
 <h3 align="center">📊 GitHub Stats</h3>
