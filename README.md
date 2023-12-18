@@ -8,9 +8,13 @@
 - ⚡ Fun fact **I am funny**
   
 <h3 align="left">My Recent project</h3>
-<a href="https://github.com/nguyenhuykhai/manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Front-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
+<div>
+  <a href="https://github.com/nguyenhuykhai/manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Front-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
+</div>
 <br/>
-<a href="https://github.com/nguyenhuykhai/be-manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Back-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
+<div>
+  <a href="https://github.com/nguyenhuykhai/be-manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Back-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
