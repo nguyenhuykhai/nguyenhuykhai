@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,vscode,github,visualstudio,git,gitlab,babel,figma" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,aws,c,java,mysql,docker,spring,sass,MongoDB,gcp,idea" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,aws,c,java,mysql,docker,spring,sass,mongodb,gcp,idea" /><br>
 </div>
 <br/>
 <h3 align="center">📊 GitHub Stats</h3>
