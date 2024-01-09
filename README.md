@@ -45,7 +45,7 @@
 <img align="right" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
 
-- 👨‍💻 **FU_MANAGER_PROJECT FU Manager Project Developer**\
+- 👨‍💻 **FU Manager Project Developer**\
 📆 Dec 2, 2023 - Now\
 📍 **FPT University** - Ho Chi Minh City, VietNam
 
