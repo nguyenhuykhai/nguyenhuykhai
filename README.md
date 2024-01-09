@@ -1,26 +1,85 @@
-<h1 align="center">Hi 👋, I'm Nguyen Huy Khai</h1>
+<h1 align='center'>
+  Hi there 👋 I'm Nguyen Huy Khai 👨‍💻
+</h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<p align='center'>
+  <a href="https://github.com/nguyenhuykhai">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+   <a href="https://fb.com/https://www.facebook.com/huykhai.pi/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/khai-huy-nguyen/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p></br>
 
-- 📫 How to reach me **nguyenhuykhaipch94@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-  
-<h3 align="left">My Recent project</h3>
-<div>
-  <a href="https://github.com/nguyenhuykhai/manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Front-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
-</div>
-<br/>
-<div>
-  <a href="https://github.com/nguyenhuykhai/be-manager-tasks-application" target="blank">FU_MANAGER_PROJECT (Back-end) - QUẢN LÝ DỰ ÁN NHÓM LỚP</a>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khai-huy-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khai-huy-nguyen/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/huykhai.pi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/huykhai.pi/" height="30" width="40" /></a>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nguyenhuykhai&show_icons=true&theme=radical" height="150" alt="languages graph"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhuykhai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=nguyenhuykhai&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
+
+<p align='center'>
+  📫 How to reach me: <a href='nguyenhuykhaipch94@gmail.com'>nguyenhuykhaipch94@gmail.com</a>
+</p>
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Web Development**\
+📆 2019 - Now\
+📍 **FPT University** - Ho Chi Minh City, VietNam
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Socket.io-010101?logo=Socket.io&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
+
+- 👨‍💻 **FU_MANAGER_PROJECT FU Manager Project Developer**\
+📆 Dec 2, 2023 - Now\
+📍 **FPT University** - Ho Chi Minh City, VietNam
+
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
+
+- 👨‍💻 **FU_MANAGER_PROJECT FU Manager Project Developer**\
+📆 Dec 2, 2023 - Now\
+📍 **FPT University** - Ho Chi Minh City, VietNam
+
+- 👨‍💻 **OJT Internship for Japanese Customers**\
+📆 Sep 1, 2023 - Dec 15, 2023\
+📍 **Fpt Software** - Ho Chi Minh City, VietNam
+
+- 👨‍💻 **Nha Trang Nature Elite Developer**\
+📆 Jun 2, 2023 - Jul 21, 2023\
+📍 **FPT University** - Ho Chi Minh City, VietNam
+
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white" />
+
+- 👨‍💻 **4AE Movie Developer**\
+📆 Jun 2, 2023 - Jul 21, 2023\
+📍 **FPT University** - Ho Chi Minh City, VietNam
+
+</details>
 
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -30,9 +89,4 @@
     <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,aws,c,java,mysql,docker,spring,sass,mongodb,gcp,idea" /><br>
 </div>
 <br/>
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenhuykhai&show_icons=true&theme=radical" height="150" alt="languages graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhuykhai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuykhai&theme=tokyonight&hide_border=false"/><br/>
 </div>
