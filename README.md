@@ -67,7 +67,7 @@
 📍 **FPT University** - Ho Chi Minh City, VietNam
 
 - 👨‍💻 **Nha Trang Nature Elite Developer**\
-📆 Jun 2, 2023 - Jul 21, 2023\
+📆 Jun 8, 2023 - Jul 28, 2023\
 📍 **FPT University** - Ho Chi Minh City, VietNam
 
 <img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
