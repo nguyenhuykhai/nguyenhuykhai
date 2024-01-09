@@ -40,19 +40,6 @@
 
 <img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Socket.io-010101?logo=Socket.io&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
-
-- 👨‍💻 **FU_MANAGER_PROJECT FU Manager Project Developer**\
-📆 Dec 2, 2023 - Now\
-📍 **FPT University** - Ho Chi Minh City, VietNam
-
-<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
@@ -65,6 +52,19 @@
 - 👨‍💻 **OJT Internship for Japanese Customers**\
 📆 Sep 1, 2023 - Dec 15, 2023\
 📍 **Fpt Software** - Ho Chi Minh City, VietNam
+
+<img align="right" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node%20js-339933?logo=nodedotjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Socket.io-010101?logo=Socket.io&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black" />
+
+- 👨‍💻 **Wokout Management Developer**\
+📆 Aug 14, 2023 - Now\
+📍 **FPT University** - Ho Chi Minh City, VietNam
 
 - 👨‍💻 **Nha Trang Nature Elite Developer**\
 📆 Jun 2, 2023 - Jul 21, 2023\
