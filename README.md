@@ -36,30 +36,21 @@
 📆 2019 - Now\
 📍 **FPT University** - Ho Chi Minh City, VietNam
 
-## Experience
+## Work Experience
+
+- **Thegioianlac**\
+📆 May 2024 – Present\
+👨‍💻 Frontend developer | Freelancer
+📍 **An Lac Farm Joint Stock Company** - Long An Province \
+
+- **OJT Internship for Japanese Customers**\
+📆 September 2022 – March 2024\
+👨‍💻 Frontend developer | Fulltime
+📍 **Fpt Software** - Ho Chi Minh City, VietNam
 
 - 👨‍💻 **FU Manager Project Developer**\
 🗂 About: Web application for managing tasks\
 📆 Dec 2, 2023 - Now\
-📍 **FPT University** - Ho Chi Minh City, VietNam
-
-- 👨‍💻 **OJT Internship for Japanese Customers**\
-📆 Sep 1, 2023 - Dec 15, 2023\
-📍 **Fpt Software** - Ho Chi Minh City, VietNam
-
-- 👨‍💻 **Wokout Management Developer**\
-🗂 About: Web Application for managing workout schedules\
-📆 Aug 14, 2023 - Now\
-📍 **FPT University** - Ho Chi Minh City, VietNam
-
-- 👨‍💻 **Nha Trang Nature Elite Developer**\
-🗂 About: Web Application for the tourism industry and streamline travel-related processes\
-📆 Jun 8, 2023 - Jul 28, 2023\
-📍 **FPT University** - Ho Chi Minh City, VietNam
-
-- 👨‍💻 **4AE Movie Developer**\
-🗂 About: Movie Web Application with Third-Party Payment Integration\
-📆 Jun 2, 2023 - Jul 21, 2023\
 📍 **FPT University** - Ho Chi Minh City, VietNam
 
 </details>
