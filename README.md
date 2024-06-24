@@ -27,7 +27,7 @@
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 My Resume</summary>
 
 
 ## Education
@@ -47,6 +47,9 @@
 📆 September 2022 – March 2024\
 👨‍💻 Frontend developer | Fulltime\
 📍 **Fpt Software** - Ho Chi Minh City, VietNam
+
+## CV
+- **Nguyen Huy Khai - Resume** | [PDF](https://github.com/nguyenhuykhai/nguyenhuykhai/blob/main/Nguyen_Huy_Khai__Resume.pdf)
 
 </details>
 
