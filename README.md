@@ -48,11 +48,6 @@
 👨‍💻 Frontend developer | Fulltime
 📍 **Fpt Software** - Ho Chi Minh City, VietNam
 
-- 👨‍💻 **FU Manager Project Developer**\
-🗂 About: Web application for managing tasks\
-📆 Dec 2, 2023 - Now\
-📍 **FPT University** - Ho Chi Minh City, VietNam
-
 </details>
 
 <br/>
