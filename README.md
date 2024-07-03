@@ -49,7 +49,7 @@
 📍 **Fpt Software** - Ho Chi Minh City, VietNam
 
 ## CV
-- **Nguyen Huy Khai - Resume** | [PDF](https://github.com/nguyenhuykhai/nguyenhuykhai/blob/main/Nguyen_Huy_Khai__Resume.pdf)
+- **Nguyen Huy Khai - Resume** | [PDF](https://github.com/nguyenhuykhai/nguyenhuykhai/blob/main/Nguyen_Huy_Khai_Resume.pdf)
 
 </details>
 
