@@ -4,9 +4,6 @@
 <h3 align="center">A passionate web developer from VietNam</h3>
 
 <p align='center'>
-  <a href="https://github.com/nguyenhuykhai">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
-  </a>&nbsp;&nbsp;
    <a href="https://www.facebook.com/huykhai.Pi/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebooks&logoColor=#white" />        
   </a>&nbsp;&nbsp;
