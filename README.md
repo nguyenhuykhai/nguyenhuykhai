@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there, I'm Nguyen Huy Khai 👨‍💻
+  Hi there, I'm Nguyen Huy Khai
 </h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
 
