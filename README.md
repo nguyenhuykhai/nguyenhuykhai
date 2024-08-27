@@ -38,12 +38,12 @@
 
 - **Thegioianlac**\
 📆 May 2024 – Present\
-👨‍💻 Frontend developer | Freelancer\
+👨‍💻 Front-end developer | Freelancer\
 📍 **An Lac Farm Joint Stock Company** - Long An Province
 
 - **OJT Internship for Japanese Customers**\
 📆 September 2022 – March 2024\
-👨‍💻 Frontend developer | Fulltime\
+👨‍💻 Front-end developer | Fulltime\
 📍 **Fpt Software** - Ho Chi Minh City, VietNam
 
 ## CV
