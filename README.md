@@ -17,7 +17,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nguyenhuykhai&show_icons=true&theme=radical" height="150" alt="languages graph"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhuykhai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=nguyenhuykhai&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuykhai&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align='center'>
