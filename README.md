@@ -30,7 +30,7 @@
 
 ## Education
 
-- 📖 **Web Development**\
+- 📖 **Software Engineering**\
 📆 2020 - 2024\
 📍 **FPT University** - Ho Chi Minh City, VietNam
 
