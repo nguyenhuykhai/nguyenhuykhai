@@ -2,6 +2,7 @@
   Hi there, I'm Nguyen Huy Khai
 </h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
+<h4 align="center">I am currently working with NextJS, Angular, and exploring Blockchain/Web3</h4>
 
 <p align='center'>
    <a href="https://www.facebook.com/huykhai.Pi/">
@@ -35,18 +36,23 @@
 
 ## Work Experience
 
+- **Unicourse | EduTech Platform**\
+📆 Jan 2024 – Present\
+👨‍💻 Co-Founder & Front-end developer\
+📍 **Unicourse Limited Liability Company** - Ho Chi Minh City
+
 - **Thegioianlac**\
 📆 May 2024 – Present\
-👨‍💻 Front-end developer | Freelancer\
+👨‍💻 Front-end developer\
 📍 **An Lac Farm Joint Stock Company** - Long An Province
 
-- **OJT Internship for Japanese Customers**\
-📆 September 2022 – March 2024\
-👨‍💻 Front-end developer | Fulltime\
-📍 **Fpt Software** - Ho Chi Minh City, VietNam
+- **A healthcare project for a Japanese client**\
+📆 September 2023 – March 2024\
+👨‍💻 Front-end developer\
+📍 **Fpt Software** - Ho Chi Minh City
 
 ## CV
-- **Nguyen Huy Khai - Resume** | [PDF](https://github.com/nguyenhuykhai/nguyenhuykhai/blob/main/Nguyen_Huy_Khai_Resume.pdf)
+- **Nguyen Huy Khai - Resume** | [PDF](https://firebasestorage.googleapis.com/v0/b/unicourse-f4020.appspot.com/o/images%2FNguyen_Huy_Khai_Resume.pdf?alt=media&token=14d16305-162f-4cf2-950c-9a9e5c80acd5)
 
 </details>
 
@@ -54,8 +60,8 @@
 <h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,vscode,github,visualstudio,git,gitlab,babel,figma" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,aws,c,java,mysql,docker,spring,sass,mongodb,gcp,idea" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,html,css,vscode,github,visualstudio,git,gitlab,babel,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,vite,typescript,firebase,aws,c,java,mysql,docker,spring,sass,mongodb,gcp,idea" /><br>
 </div>
 <br/>
 </div>
