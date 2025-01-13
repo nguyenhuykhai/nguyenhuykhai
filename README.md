@@ -31,7 +31,7 @@
 ## Education
 
 - 📖 **Web Development**\
-📆 2019 - Now\
+📆 2020 - 2024\
 📍 **FPT University** - Ho Chi Minh City, VietNam
 
 ## Work Experience
