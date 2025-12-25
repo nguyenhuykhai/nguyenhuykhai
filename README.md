@@ -2,7 +2,6 @@
   Hi there, I'm Nguyen Huy Khai
 </h1>
 <h3 align="center">A passionate web developer from VietNam</h3>
-<h4 align="center">I am currently working with NextJS, Angular, and exploring Blockchain/Web3</h4>
 
 <p align='center'>
    <a href="https://www.facebook.com/huykhai.Pi/">
@@ -14,17 +13,11 @@
   </a>&nbsp;&nbsp;
 </p></br>
 
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nguyenhuykhai&show_icons=true&theme=radical" height="150" alt="languages graph"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenhuykhai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
-</p>
-
 <p align='center'>
   📫 How to reach me: <a href="mailto:huykhai.work@gmail.com">huykhai.work@gmail.com</a>
 </p>
 
-<details>
+<!-- <details>
   <summary>📃 My Resume</summary>
 
 
@@ -54,7 +47,7 @@
 ## CV
 - **Nguyen Huy Khai - Resume** | [PDF](https://github.com/nguyenhuykhai/nguyenhuykhai/blob/main/Nguyen_Huy_Khai_Resume.pdf)
 
-</details>
+</details> -->
 
 <br/>
 <h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
